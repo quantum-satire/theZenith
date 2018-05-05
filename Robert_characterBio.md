@@ -1,7 +1,7 @@
 ## Robert A. Floyd
 <img align="right" width="300" height="380" src="https://github.com/quantum-satire/theZenith/blob/master/2D42BEC4-DB90-44F1-9C78-D8D223DB9864.jpeg">
 
-Nickname / Alias: “Floyd”, “Robbie”
+Nickname / Alias: “Floyd”, “The Grey Shrike”
 
 Gender: Male
 
@@ -27,6 +27,6 @@ Weapon(s): A pen and a publisher
 
 MBTI® Alignment: INTJ
 
-Extra: Often dresses in grey to minimize choices.
+Extra: Often dresses in grey as his identifying color
 
 Bio: Robert is a hobbyist master swordsman and uses this as his means of exercise. He is an investigative journalist with a focus on world politics and foreign policy. He speaks several languages including Russian, French, Italian, and German. Robert is the adoptive son of a single mother and has a close relationship with her; he has no other family, no spouse or significant other. He has a naturally kind disposition, though will not refuse violence when deemed necessary.
