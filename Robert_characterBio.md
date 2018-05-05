@@ -29,4 +29,4 @@ MBTI® Alignment: INTJ
 
 Extra: Often dresses in grey to minimize choices.
 
-Bio: 
+Bio: Robert is a hobbyist master swordsman and uses this as his means of exercise. He is an investigative journalist with a focus on world politics and foreign policy. He speaks several languages including Russian, French, Italian, and German. Robert is the adoptive son of a single mother and has a close relationship with her; he has no other family, no spouse or significant other. He has a naturally kind disposition, though will not refuse violence when deemed necessary.
