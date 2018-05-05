@@ -7,7 +7,7 @@ Gender: Male
 
 DOB / Age: 21 May; 32
 
-General Appearance: 
+General Appearance: Dark grey hair, green eyes, grey beard, thin glasses
 
 Job / Career: Investigative Journalist
 
@@ -15,18 +15,18 @@ Work History: Worked for The Herald & The Zenith, currently at The Herald
 
 Build: medium build; overtly tall
 
-Origin: America
+Origin: Detroit, Michigan (American)
 
-Likes:
+Likes: music, work, driving
 
-Dislikes:
+Dislikes: seafood, fashion, social requirements
 
-Motivation(s): 
+Motivation(s): Clearing his name and restoring his pseudo-celebrity reputation
 
-Weapon(s): [optional]
+Weapon(s): A pen and a publisher
 
-MBTI® Alignment: [Choose from alignments here.](http://www.personalityperfect.com/16-personality-types/)
+MBTI® Alignment: INTJ
 
-Extra: 
+Extra: Often dresses in grey to minimize choices.
 
 Bio: 
