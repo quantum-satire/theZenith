@@ -26,5 +26,16 @@ If you have any general questions about using GitHub, you can read their officia
 
 GitHub supports Markdown. This is similar to Skype or Slack using asterisks and underscores to "flavor" text, or make it look pretty. Read about Markdown specifics on GitHub here: https://guides.github.com/features/mastering-markdown/
 
+## Creating Character Bios
+You're logged in, you've been accepted as a collaborator, now what? You should create a character bio to flex your creative skills and get some writing juices flowing. Creating a bio will allow you to show off your character and allow other writers the ability to get a feel for the character--remember that other writers will have the ability to write their characters into your character's life, and they'll need a personality and description to go by.
+
+In order to create a character, copy the template [here](https://github.com/quantum-satire/theZenith/blob/master/Bios/blank_characterBio.md) by clicking the "Raw" button and selecting the text, then paste it into a new text file. Fill it out as much as you can. There's a placeholder image, all you need to do is replace that link with a link to the photo you want to show up as a faceclaim or reference image. Feel free to add more to the bio than what's already there, but at the minimum you should fill all of it out.
+
+When you're finished filling out the bio, you'll need to create a new file to paste the information in. Click on the "Create New File" button inside of the proper folder:
+
+![Image of create file button location](readmeimages/3.png)
+
+Name the file with the naming convention of `charactername_characterBio.md`. **It is very important that you include `.md` at the end of your file name.** You'll do the same process when you add a chapter file.
+
 ## Discord Server
 If you're accepted as a collaborator, you can join our Discord server and chat with us about mostly anything relating to the story. Join our Discord here: https://discord.gg/rRuREz2
