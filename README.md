@@ -3,13 +3,15 @@
 #### Read all of the rules before asking questions or requesting to be a collaborator!
 Anyone is welcome to participate regardless of writing skill level, but please use proper grammar and spelling. Also, I will need to add you as a collaborator in order for you to participate, so please message me or start a new issue and tagging my username (@quantum-satire).
  
-The Zenith is a collaborative story effort by several writers each taksed with creating one or more new characters and writing a chapter taking into account the already established setting, characters, lore, etc. Please have the courtesy to read the already written chapters in full before writing your own (otherwise, how will you know what's going on?) 
+The Zenith is a collaborative story effort by several writers each taksed with creating one or more new characters and writing a chapter taking into account the already established setting, characters, lore, etc. 
 
-*It's okay to write a chapter using another person's character, but not featuring them.* The plot wouldn't go very well if none of the characters interacted, but this also requires each writer to understand that, once they have published a chapter, every other participating writer has the ability to incorporate that character in their own subsequent chapter(s) if they so wish.
+- *Please have the courtesy to read the already written chapters in full before writing your own* Otherwise, how will you know what's going on?
 
-*Please, no "god modding."* Don't kill off other characters unless you've spoken with the author of that character before hand (either in private or on the issues board). That's just rude.
+- *It's okay to write a chapter using another person's character, but not featuring them.* The plot wouldn't go very well if none of the characters interacted, but this also requires each writer to understand that, once they have published a chapter, every other participating writer has the ability to incorporate that character in their own subsequent chapter(s) if they so wish.
 
-*Keep the plot appropriate.* Listen, you're into your stuff and I'm into my stuff, but this just isn't the place to play out weird fantasies. If it's not in the lore and doesn't make a significant contribution to the plot, take a minute to think about if you really think other people would enjoy having to read / write more on that idea. Also, please no explicit sexual content!
+- *Please, no "god modding."* Don't kill off other characters unless you've spoken with the author of that character before hand (either in private or on the issues board). That's just rude.
+
+- *Keep the plot appropriate.* Listen, you're into your stuff and I'm into my stuff, but this just isn't the place to play out weird fantasies. If it's not in the lore and doesn't make a significant contribution to the plot, take a minute to think about if you really think other people would enjoy having to read / write more on that idea. Also, please no explicit sexual content!
 
 ### Basic Information about the Plot
 - Setting: Late 1920s Prohibition-Era Boston, MA
