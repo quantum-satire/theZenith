@@ -26,5 +26,4 @@ If you have any general questions about using GitHub, you can read their officia
 
 GitHub supports Markdown. This is similar to Skype or Slack using asterisks and underscores to "flavor" text, or make it look pretty. Read about Markdown specifics on GitHub here: https://guides.github.com/features/mastering-markdown/
 
-
-
+If you're accepted as a collaborator, you can join our Discord server and chat with us about mostly anything relating to the story. Join our Discord here: https://discord.gg/rRuREz2
