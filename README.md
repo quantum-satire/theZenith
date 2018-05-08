@@ -2,10 +2,12 @@
 ## Premise and Rules
 #### Read all of the rules before asking questions or requesting to be a collaborator!
 Anyone is welcome to participate regardless of writing skill level, but please use proper grammar and spelling. Also, I will need to add you as a collaborator in order for you to participate, so please message me or start a new issue and tagging my username (@quantum-satire).
+
+**You will need to create a GitHub account in order to participate!**
  
 The Zenith is a collaborative story effort by several writers each taksed with creating one or more new characters and writing a chapter taking into account the already established setting, characters, lore, etc. 
 
-- *Please have the courtesy to read the already written chapters in full before writing your own* Otherwise, how will you know what's going on?
+- *Please have the courtesy to read the already written chapters in full before writing your own.* Otherwise, how will you know what's going on?
 
 - *It's okay to write a chapter using another person's character, but not featuring them.* The plot wouldn't go very well if none of the characters interacted, but this also requires each writer to understand that, once they have published a chapter, every other participating writer has the ability to incorporate that character in their own subsequent chapter(s) if they so wish.
 
