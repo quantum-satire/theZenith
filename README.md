@@ -11,6 +11,9 @@ The Zenith is a collaborative story effort by several writers each taksed with c
 
 *Keep the plot appropriate.* Listen, you're into your stuff and I'm into my stuff, but this just isn't the place to play out weird fantasies. If it's not in the lore and doesn't make a significant contribution to the plot, take a minute to think about if you really think other people would enjoy having to read / write more on that idea. Also, please no explicit sexual content!
 
+### Setting: 1920s Boston, MA
+### Genre: Fiction, Mystery, Action
+
 ## How to Use GitHub
 As writers, you're probably not so familiar with a traditionally computer coder-friendly site like GitHub. All you need to know is that it's a great site for collaborative work and super easy once you get the hang of it. The two main things you will need to know is how to use the issues board and how to upload a file once you've written it.
 
