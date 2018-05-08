@@ -1,5 +1,5 @@
 # The Zenith
-## Basic Premise and Rules
+## Premise and Rules
 #### Read all of the rules before asking questions or requesting to be a collaborator!
 Anyone is welcome to participate regardless of writing skill level, but please use proper grammar and spelling. Also, I will need to add you as a collaborator in order for you to participate, so please message me or start a new issue and tagging my username (@quantum-satire).
  
@@ -11,8 +11,12 @@ The Zenith is a collaborative story effort by several writers each taksed with c
 
 *Keep the plot appropriate.* Listen, you're into your stuff and I'm into my stuff, but this just isn't the place to play out weird fantasies. If it's not in the lore and doesn't make a significant contribution to the plot, take a minute to think about if you really think other people would enjoy having to read / write more on that idea. Also, please no explicit sexual content!
 
-### Setting: 1920s Boston, MA
-### Genre: Fiction, Mystery, Action
+### Basic Information about the Plot
+- Setting: Late 1920s Prohibition-Era Boston, MA
+- Genre: Fiction, Mystery / Suspense, Action (this may change as the plot wears on)
+- Characters should be realistic in nature (human-only) though pets and other animals are allowed
+##### The Zenith is (a fictional) newspaper organization that is considered the most famous publication in the east coast. A zenith is also defined as "the time at which something is most powerful or successful"--take this into consideration when writing your chapters. This is the centralmost prompt.
+##### Characters may choose to work for the paper, work as a rival to the paper, or work entirely separate from the paper. Jobs may consist of any conceivable career including (but not limited to) police work, criminal or undesirable activity (smugglers, dancers, robbers, etc.), scientists (medical examiners and morticians, chemists, mathematicians, etc.), journalists (photographers, writers, editors, etc.), curators (librarians, museum workers, etc.) and other such jobs that would fit into a Prohibition-Era time period. When choosing a job, please read up a little on the career choice appropriate for the period in order to assure historical accuracy.
 
 ## How to Use GitHub
 As writers, you're probably not so familiar with a traditionally computer coder-friendly site like GitHub. All you need to know is that it's a great site for collaborative work and super easy once you get the hang of it. The two main things you will need to know is how to use the issues board and how to upload a file once you've written it.
