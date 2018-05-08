@@ -16,11 +16,11 @@ As writers, you're probably not so familiar with a traditionally computer coder-
 
 First, to access the issues board, you will need to click the issues button, located in the top half of the home screen for the repository:
 
-![Image of issues board location](readmeImages/1.jpg)
+![Image of issues board location](readmeimages/1.jpg)
 
 You'll need to start a new issue now. To do this, click on the green "New Issue" button at the top right corner. Write your question, give it a descriptive title, and add some labels to it! You do this by navigating to the "Labels" tab and selecting all of the relevent tags.
 
-![Image of issues board location](readmeImages/2.png)
+![Image of issues board location](readmeimages/2.png)
 
 If you have any general questions about using GitHub, you can read their official guidelines and directions here: https://guides.github.com
 
