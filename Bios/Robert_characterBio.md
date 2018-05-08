@@ -1,5 +1,6 @@
 ## Robert A. Floyd
-<img align="right" width="300" height="380" src="https://github.com/quantum-satire/theZenith/blob/master/2D42BEC4-DB90-44F1-9C78-D8D223DB9864.jpeg">
+
+![image of Robert](Bios/characterImages/robert.jpeg)
 
 Nickname / Alias: “Floyd”, “The Grey Shrike”
 

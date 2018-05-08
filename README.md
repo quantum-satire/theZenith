@@ -15,3 +15,16 @@ The Zenith is a collaborative story effort by several writers each taksed with c
 As writers, you're probably not so familiar with a traditionally computer coder-friendly site like GitHub. All you need to know is that it's a great site for collaborative work and super easy once you get the hang of it. The two main things you will need to know is how to use the issues board and how to upload a file once you've written it.
 
 First, to access the issues board, you will need to click the issues button, located in the top half of the home screen for the repository:
+
+![Image of issues board location](readmeImages/1.jpg)
+
+You'll need to start a new issue now. To do this, click on the green "New Issue" button at the top right corner. Write your question, give it a descriptive title, and add some labels to it! You do this by navigating to the "Labels" tab and selecting all of the relevent tags.
+
+![Image of issues board location](readmeImages/2.png)
+
+If you have any general questions about using GitHub, you can read their official guidelines and directions here: https://guides.github.com
+
+GitHub supports Markdown. This is similar to Skype or Slack using asterisks and underscores to "flavor" text, or make it look pretty. Read about Markdown specifics on GitHub here: https://guides.github.com/features/mastering-markdown/
+
+
+
